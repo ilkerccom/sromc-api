@@ -1,0 +1,656 @@
+{
+  "charId": "100120482",
+  "token": "8cc88f9b-d284-4c34-964e-4900ce525e1b",
+  "status": "None",
+  "character": {
+    "server": "Pergamon",
+    "name": "ILKERC",
+    "model": 1913,
+    "guild": "WITCHERS",
+    "job_name": "PAPEL",
+    "region": 23687,
+    "x": 118.19999694824219,
+    "y": 66.80000305175781,
+    "hp": 49710,
+    "mp": 23544,
+    "hp_max": 49710,
+    "mp_max": 23544,
+    "level": 100,
+    "dead": "False",
+    "gold": 661004116,
+    "current_exp": 3530071556,
+    "max_exp": 3530071557,
+    "sp": 560354,
+    "job_current_exp": 209597265,
+    "job_max_exp": 517987391,
+    "player_id": 3194619,
+    "account_id": 123662,
+    "locale": 56
+  },
+  "inventory": {
+    "size": 99,
+    "gold": 661004116,
+    "items": [
+      {
+        "model": 4544,
+        "servername": "ITEM_CH_M_LIGHT_09_CA_C_RARE",
+        "name": "Girin Horn Coronet",
+        "quantity": 1,
+        "plus": 8,
+        "durability": 180
+      },
+      {
+        "model": 4616,
+        "servername": "ITEM_CH_M_LIGHT_09_BA_C_RARE",
+        "name": "Girin Horn Lamellar",
+        "quantity": 1,
+        "plus": 8,
+        "durability": 211
+      },
+      {
+        "model": 4580,
+        "servername": "ITEM_CH_M_LIGHT_09_SA_C_RARE",
+        "name": "Girin Horn Shell",
+        "quantity": 1,
+        "plus": 8,
+        "durability": 184
+      },
+      {
+        "model": 4690,
+        "servername": "ITEM_CH_M_LIGHT_10_AA_B_RARE",
+        "name": "Witacheon Glove",
+        "quantity": 1,
+        "plus": 8,
+        "durability": 184
+      },
+      {
+        "model": 4651,
+        "servername": "ITEM_CH_M_LIGHT_09_LA_B_RARE",
+        "name": "Girin Horn Tasset",
+        "quantity": 1,
+        "plus": 7,
+        "durability": 175
+      },
+      {
+        "model": 4726,
+        "servername": "ITEM_CH_M_LIGHT_10_FA_B_RARE",
+        "name": "Witacheon Boots",
+        "quantity": 1,
+        "plus": 8,
+        "durability": 208
+      },
+      {
+        "model": 4078,
+        "servername": "ITEM_CH_BLADE_10_B_RARE",
+        "name": "Giant Barbaric Sword",
+        "quantity": 1,
+        "plus": 8,
+        "durability": 44
+      },
+      {
+        "model": 4222,
+        "servername": "ITEM_CH_SHIELD_10_B_RARE",
+        "name": "Tiger Bone Shield",
+        "quantity": 1,
+        "plus": 8,
+        "durability": 71
+      },
+      "None",
+      {
+        "model": 5807,
+        "servername": "ITEM_CH_EARRING_10_C_RARE",
+        "name": "Tiger's Eye Earring",
+        "quantity": 1,
+        "plus": 7,
+        "durability": 0
+      },
+      {
+        "model": 5843,
+        "servername": "ITEM_CH_NECKLACE_10_C_RARE",
+        "name": "Tiger's Eye Necklace",
+        "quantity": 1,
+        "plus": 7,
+        "durability": 0
+      },
+      {
+        "model": 5768,
+        "servername": "ITEM_CH_RING_09_C_RARE",
+        "name": "Gem Ring",
+        "quantity": 1,
+        "plus": 9,
+        "durability": 0
+      },
+      {
+        "model": 5768,
+        "servername": "ITEM_CH_RING_09_C_RARE",
+        "name": "Gem Ring",
+        "quantity": 1,
+        "plus": 9,
+        "durability": 0
+      },
+      "None",
+      "None",
+      "None",
+      {
+        "model": 8,
+        "servername": "ITEM_ETC_HP_POTION_05",
+        "name": "HP Recovery Potion (X-Large)",
+        "quantity": 28,
+        "plus": 0,
+        "durability": 0
+      },
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 40,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 2198,
+        "servername": "ITEM_ETC_SCROLL_RETURN_02",
+        "name": "Special Return Scroll",
+        "quantity": 4,
+        "plus": 0,
+        "durability": 0
+      },
+      "None",
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 38501,
+        "servername": "ITEM_PET2_GOODS_REVIVAL_EXP0_04",
+        "name": "Stone of Resurrection (Lv. 4)",
+        "quantity": 9,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 38491,
+        "servername": "ITEM_PET2_GOODS_HP_POTION_A_04",
+        "name": "Water of Life (Lv. 4)",
+        "quantity": 44,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 38491,
+        "servername": "ITEM_PET2_GOODS_HP_POTION_A_04",
+        "name": "Water of Life (Lv. 4)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 38491,
+        "servername": "ITEM_PET2_GOODS_HP_POTION_A_04",
+        "name": "Water of Life (Lv. 4)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 38491,
+        "servername": "ITEM_PET2_GOODS_HP_POTION_A_04",
+        "name": "Water of Life (Lv. 4)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 40653,
+        "servername": "ITEM_ETC_CURE_SUPER_02",
+        "name": "Abnormal State Medium Potion",
+        "quantity": 49,
+        "plus": 0,
+        "durability": 0
+      },
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      {
+        "model": 40653,
+        "servername": "ITEM_ETC_CURE_SUPER_02",
+        "name": "Abnormal State Medium Potion",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      {
+        "model": 8,
+        "servername": "ITEM_ETC_HP_POTION_05",
+        "name": "HP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 8,
+        "servername": "ITEM_ETC_HP_POTION_05",
+        "name": "HP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      "None",
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 15,
+        "servername": "ITEM_ETC_MP_POTION_05",
+        "name": "MP Recovery Potion (X-Large)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      {
+        "model": 3851,
+        "servername": "ITEM_MALL_GLOBAL_CHATTING",
+        "name": "Global chatting",
+        "quantity": 17,
+        "plus": 0,
+        "durability": 0
+      },
+      "None",
+      {
+        "model": 23,
+        "servername": "ITEM_ETC_ALL_SPOTION_01",
+        "name": "Vigor Recovery Grain (Small)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 23,
+        "servername": "ITEM_ETC_ALL_SPOTION_01",
+        "name": "Vigor Recovery Grain (Small)",
+        "quantity": 50,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 41188,
+        "servername": "ITEM_PET2_SCROLL_ENC_LION_A",
+        "name": "Gold horn Summon Scroll",
+        "quantity": 1,
+        "plus": 0,
+        "durability": 0
+      },
+      {
+        "model": 9265,
+        "servername": "ITEM_COS_P_SEOWON_SCROLL",
+        "name": "Squirrel Summon Scroll",
+        "quantity": 1,
+        "plus": 0,
+        "durability": 0
+      }
+    ]
+  },
+  "storage": {
+    "size": 251,
+    "gold": 0,
+    "items": [ "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None", "None" ]
+  },
+  "drops": {},
+  "guild": {
+    4322: {
+      "name": "ILKERC",
+      "model": 1913,
+      "level": 100,
+      "region": 23687,
+      "donated_gp": 3520,
+      "authority": 4294967295,
+      "online": 1,
+      "master": 1
+    },
+    4502: {
+      "name": "Leqendary",
+      "model": 1911,
+      "level": 100,
+      "region": -32761,
+      "donated_gp": 0,
+      "authority": 31,
+      "online": 0
+    },
+    5635: {
+      "name": "CARLAONE",
+      "model": 1918,
+      "level": 100,
+      "region": 26265,
+      "donated_gp": 2850,
+      "authority": 31,
+      "online": 0
+    }
+  },
+  "party": {},
+  "quests": {},
+  "monsters": {},
+  "pets": {
+    3195026: {
+      "name": "FIEND",
+      "servername": "COS_PET2_ENC_LION_A",
+      "model": 41231,
+      "type": "fellow",
+      "hp": 44604,
+      "mounted": "False",
+      "items": [
+        {
+          "model": 38388,
+          "servername": "ITEM_PET2_EQUIP_ENC_CLAW_DEF",
+          "name": "Claw of Ascetic",
+          "quantity": 1,
+          "plus": 0,
+          "durability": 0
+        },
+        {
+          "model": 38431,
+          "servername": "ITEM_PET2_EQUIP_ENC_CHARM_A_091",
+          "name": "Enhance Charm",
+          "quantity": 1,
+          "plus": 0,
+          "durability": 40
+        },
+        {
+          "model": 38390,
+          "servername": "ITEM_PET2_EQUIP_ENC_SADDLE_DEF",
+          "name": "Saddle of Ascetic",
+          "quantity": 1,
+          "plus": 0,
+          "durability": 0
+        },
+        {
+          "model": 38449,
+          "servername": "ITEM_PET2_EQUIP_ENC_SCALE_A_091",
+          "name": "Enhance Scale",
+          "quantity": 1,
+          "plus": 0,
+          "durability": 208
+        },
+        {
+          "model": 38392,
+          "servername": "ITEM_PET2_EQUIP_ENC_AMULET_DEF",
+          "name": "Amulet of Ascetic",
+          "quantity": 1,
+          "plus": 0,
+          "durability": 0
+        },
+        "None",
+        {
+          "model": 38467,
+          "servername": "ITEM_PET2_EQUIP_ENC_TATTOO_A_091",
+          "name": "Enhance Tattoo",
+          "quantity": 1,
+          "plus": 0,
+          "durability": 207
+        },
+        {
+          "model": 38467,
+          "servername": "ITEM_PET2_EQUIP_ENC_TATTOO_A_091",
+          "name": "Enhance Tattoo",
+          "quantity": 1,
+          "plus": 0,
+          "durability": 211
+        },
+        {
+          "model": 39983,
+          "servername": "ITEM_PET2_ENC_90_A",
+          "name": "Gücü Artýr",
+          "quantity": 1,
+          "plus": 0,
+          "durability": 0
+        },
+        {
+          "model": 40018,
+          "servername": "ITEM_PET2_ENC_95_C",
+          "name": "Enerjiyi Artýr",
+          "quantity": 1,
+          "plus": 0,
+          "durability": 0
+        },
+        "None",
+        "None",
+        "None",
+        "None"
+      ]
+    },
+    3195036: {
+      "name": "LESHEN",
+      "servername": "COS_P_SEOWON",
+      "model": 9266,
+      "remaining": 4150906,
+      "type": "pick",
+      "hp": 0,
+      "mounted": "False",
+      "items": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        {
+          "model": 24331,
+          "servername": "ITEM_ETC_E080723_MENTAL_SCROLL",
+          "name": "Intelligence Scroll",
+          "quantity": 9,
+          "plus": 0,
+          "durability": 0
+        },
+        {
+          "model": 24331,
+          "servername": "ITEM_ETC_E080723_MENTAL_SCROLL",
+          "name": "Intelligence Scroll",
+          "quantity": 10,
+          "plus": 0,
+          "durability": 0
+        },
+        {
+          "model": 24330,
+          "servername": "ITEM_ETC_E080723_STRENGTH_SCROLL",
+          "name": "Strength Scroll",
+          "quantity": 9,
+          "plus": 0,
+          "durability": 0
+        },
+        {
+          "model": 24330,
+          "servername": "ITEM_ETC_E080723_STRENGTH_SCROLL",
+          "name": "Strength Scroll",
+          "quantity": 10,
+          "plus": 0,
+          "durability": 0
+        },
+        "None",
+        "None",
+        "None",
+        {
+          "model": 3783,
+          "servername": "ITEM_MALL_RESURRECTION_100P_SCROLL",
+          "name": "100% resurrection scroll",
+          "quantity": 5,
+          "plus": 0,
+          "durability": 0
+        },
+        {
+          "model": 33769,
+          "servername": "ITEM_MALL_DAMAGE_INC_ABS_20P_SCROLL",
+          "name": "20% damage increase/absorption scroll",
+          "quantity": 24,
+          "plus": 0,
+          "durability": 0
+        },
+        {
+          "model": 33775,
+          "servername": "ITEM_MALL_HP_INC_2000_POTION",
+          "name": "HP+2000 potion",
+          "quantity": 31,
+          "plus": 0,
+          "durability": 0
+        },
+        {
+          "model": 33777,
+          "servername": "ITEM_MALL_MP_INC_2000_POTION",
+          "name": "MP+2000 potion",
+          "quantity": 31,
+          "plus": 0,
+          "durability": 0
+        }
+      ]
+    }
+  },
+  "academy": {
+    "id": 490,
+    4322: {
+      "name": "ILKERC",
+      "level": 100,
+      "online": 0,
+      "type": 0,
+      "x": 0.0,
+      "y": 0.0
+    }
+  }
+}
