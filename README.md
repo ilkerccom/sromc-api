@@ -1,4 +1,4 @@
-# SROMC - phBot Plugin
+# SROMC - API
 
 ![SROMC](https://i.ibb.co/whJr5wD/banner.png)
 
